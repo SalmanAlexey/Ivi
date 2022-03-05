@@ -1,0 +1,9 @@
+pyrus_login = "bot@fea25040-22a0-47b2-8b79-2571b7909941"
+security_key = "AmScxYYQ4OHWdvXf4T4G9u6lT~XKE2fgTlTOAsFPTK-Fb9d9NMoaT63SG8DKlALkpdaWf4UbzObGneyAtlD9E6Yt-E1OqM7O"
+access_login = "ivipyrus@yandex.ru",
+access_security_key = "B8NeM9~cMKQI0TjYtiPSsW6YdXPoQE46RBeJoYKiYYsi9VStww2tezvai2kC8i~CBWFY~OwJWYSSi~vQ4Uvphgmm0pjOFyYf"
+start_form_id = 821582 # Форма, на задачи которой нужно запускать сбор информации
+report_form_id = 833385 # Форма, на задачи которой запускается создание отчёта
+db_form_id = 821582  # Номер формы, в которой хранится база данных в виде реестра дневных задач
+form_ids = [749045, 774496, 736441] # Номера форм, в которых хранятся задачи по чатам, соцсетям и емейлам
+num_of_threads = 10  # Количество потоков для скачивания задач
